@@ -1,0 +1,14 @@
+div{
+    width: 1900px;
+    height: 400px;
+    background-color: rgb(236, 233, 240);
+    padding-top: 100px;
+}
+ul{
+    list-style-type: none;
+    justify-content: center;
+    display: grid;
+    grid-template-columns: repeat(4,200px);
+    row-gap: 10px;
+    font-size: 20px;
+}
